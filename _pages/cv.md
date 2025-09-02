@@ -11,54 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* PhD in Statistics, University of Michigan (expected 2028)
+* M. Math, Indian Statistical Institute, Bangalore, 2023
+* B. Math (Hons.), Indian Statistical Institute, Bangalore, 2021
   
-Skills
+Teaching Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Winter 2025: GSI for Stats 485
+
+* Fall 2024: GSI for Stats 401
+
+* Winter 2024: GSI for [Stats 315](https://www.ambujtewari.com/stats315-winter2024/)
+
+* Fall 2023: GSI for Stats 250
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [Continuum Transformers Perform In-Context Learning by Operator Gradient Descent](https://arxiv.org/pdf/2505.17838) <br />
+Mishra, A.\*, Patel, Y.\* (\* equal contribution), Tewari A.
+
+* [Effective Reproduction Number and Dispersion underContact Tracing and Lockdown on COVID-19 in Karnataka](https://link.springer.com/article/10.1007/s41096-021-00106-1) <br />
+Athreya, S., Gadhiwala, N., Mishra, A.
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Graduate Student Instructor Excellence Team Award 2024-2025 <br />
+Department of Statistics, University of Michigan
