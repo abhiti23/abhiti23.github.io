@@ -24,6 +24,11 @@ Mishra, A.\*, Patel, Y.\* (\* equal contribution), Tewari A.
 * [Effective Reproduction Number and Dispersion underContact Tracing and Lockdown on COVID-19 in Karnataka](https://link.springer.com/article/10.1007/s41096-021-00106-1) <br />
 *Journal of the Indian Society for Probability and Statistics, 2021* <br />
 Athreya, S., Gadhiwala, N., Mishra, A.
+
+Talks
+------
+* Minisymposium on ``In-context learning for PDEs and inverse problems", [SIAM UQ 2026](https://www.siam.org/conferences-events/past-event-archive/uq26/)
+
   
 Teaching Experience
 ------
