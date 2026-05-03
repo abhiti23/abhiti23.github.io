@@ -14,6 +14,16 @@ Education
 * PhD in Statistics, University of Michigan (expected 2028)
 * M. Math, Indian Statistical Institute, Bangalore, 2023
 * B. Math (Hons.), Indian Statistical Institute, Bangalore, 2021
+
+Publications
+======
+* [Continuum Transformers Perform In-Context Learning by Operator Gradient Descent](https://arxiv.org/pdf/2505.17838) <br />
+*International Conference on Learning Representations (ICLR), 2026*
+Mishra, A.\*, Patel, Y.\* (\* equal contribution), Tewari A.
+
+* [Effective Reproduction Number and Dispersion underContact Tracing and Lockdown on COVID-19 in Karnataka](https://link.springer.com/article/10.1007/s41096-021-00106-1) <br />
+*Journal of the Indian Society for Probability and Statistics, 2021*
+Athreya, S., Gadhiwala, N., Mishra, A.
   
 Teaching Experience
 ======
@@ -24,14 +34,6 @@ Teaching Experience
 * Winter 2024: GSI for [Stats 315](https://www.ambujtewari.com/stats315-winter2024/)
 
 * Fall 2023: GSI for Stats 250
-
-Publications
-======
-* [Continuum Transformers Perform In-Context Learning by Operator Gradient Descent](https://arxiv.org/pdf/2505.17838) <br />
-Mishra, A.\*, Patel, Y.\* (\* equal contribution), Tewari A.
-
-* [Effective Reproduction Number and Dispersion underContact Tracing and Lockdown on COVID-19 in Karnataka](https://link.springer.com/article/10.1007/s41096-021-00106-1) <br />
-Athreya, S., Gadhiwala, N., Mishra, A.
 
   
 Service and leadership
