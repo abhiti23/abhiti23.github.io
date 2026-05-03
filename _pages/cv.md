@@ -12,8 +12,8 @@ redirect_from:
 Education
 ------
 * PhD in Statistics, University of Michigan (expected 2028)
-* M. Math, Indian Statistical Institute, Bangalore, 2023
-* B. Math (Hons.), Indian Statistical Institute, Bangalore, 2021
+* M. Math., Indian Statistical Institute, Bangalore, 2023
+* B. Math. (Hons.), Indian Statistical Institute, Bangalore, 2021
 
 Publications
 ------
