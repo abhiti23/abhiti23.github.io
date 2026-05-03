@@ -27,7 +27,7 @@ Athreya, S., Gadhiwala, N., Mishra, A.
 
 Talks
 ------
-* Minisymposium on ``In-context learning for PDEs and inverse problems", [SIAM UQ 2026](https://www.siam.org/conferences-events/past-event-archive/uq26/)
+* Minisymposium on "In-context learning for PDEs and inverse problems", [SIAM UQ 2026](https://www.siam.org/conferences-events/past-event-archive/uq26/)
 
   
 Teaching Experience
