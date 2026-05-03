@@ -10,7 +10,7 @@ redirect_from:
 
 <br /><br />
  I am a third year PhD student in statistics at the [University of Michigan](https://lsa.umich.edu/stats). I am co-advised by [Tailen Hsing](https://dept.stat.lsa.umich.edu/~thsing/) and [Kean Ming Tan](http://www.keanmingtan.com/). 
- Before this, I completed my M.Math and B.Math (Hons.) at [Indian Statistical Institute, Bangalore](https://www.isibang.ac.in/).
+ Before this, I completed my M.Math. and B.Math. (Hons.) at [Indian Statistical Institute, Bangalore](https://www.isibang.ac.in/).
 <br /><br />
 
 I work in **functional data analysis**, a branch of statistics that deals with continuous functions or curves.
