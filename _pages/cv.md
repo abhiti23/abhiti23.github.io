@@ -15,20 +15,25 @@ Education
 * M. Math., Indian Statistical Institute, Bangalore, 2023
 * B. Math. (Hons.), Indian Statistical Institute, Bangalore, 2021
 
+Preprints
+------
+* [funFMC: Overlapping Clustering for Functional Data](https://arxiv.org/abs/2607.13197) <br />
+Mishra, A., Tan, K. M., and Hsing, T.
+
 Publications
 ------
 * [Continuum Transformers Perform In-Context Learning by Operator Gradient Descent](https://arxiv.org/pdf/2505.17838) <br />
 *International Conference on Learning Representations (ICLR), 2026* <br />
-Mishra, A.\*, Patel, Y.\* (\* equal contribution), Tewari A.
+Mishra, A.\*, Patel, Y.\* (\* equal contribution), and Tewari, A.
 
-* [Effective Reproduction Number and Dispersion underContact Tracing and Lockdown on COVID-19 in Karnataka](https://link.springer.com/article/10.1007/s41096-021-00106-1) <br />
+* [Effective Reproduction Number and Dispersion under Contact Tracing and Lockdown on COVID-19 in Karnataka](https://link.springer.com/article/10.1007/s41096-021-00106-1) <br />
 *Journal of the Indian Society for Probability and Statistics, 2021* <br />
-Athreya, S., Gadhiwala, N., Mishra, A.
+Athreya, S., Gadhiwala, N., and Mishra, A.
 
 Talks
 ------
 * Minisymposium on "In-context learning for PDEs and inverse problems", [SIAM UQ 2026](https://www.siam.org/conferences-events/past-event-archive/uq26/)
-
+* The 2026 Michigan Student Symposium for Interdisciplinary Statistical Sciences [MSSISS 2026](https://sites.lsa.umich.edu/mssiss/)
   
 Teaching Experience
 ------
