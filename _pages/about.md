@@ -17,4 +17,4 @@ I work in **functional data analysis**, a branch of statistics that deals with c
 I am also interested in **operator learning**, a branch of machine learning where the goal is to learn maps between function spaces.
 <br /><br />
 
- Outside of research, I spend my time cooking, baking and painting. 
+Outside of research, I spend my time cooking, baking and painting. 

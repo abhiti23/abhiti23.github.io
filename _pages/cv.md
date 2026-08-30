@@ -33,16 +33,18 @@ Athreya, S., Gadhiwala, N., and Mishra, A.
 Talks
 ------
 * Minisymposium on "In-context learning for PDEs and inverse problems", [SIAM UQ 2026](https://www.siam.org/conferences-events/past-event-archive/uq26/)
+
 * The 2026 Michigan Student Symposium for Interdisciplinary Statistical Sciences [MSSISS 2026](https://sites.lsa.umich.edu/mssiss/)
+
+* [SIAM Student Mini-Symposium in Applied Mathematics 2026](https://sites.google.com/umich.edu/2026-siam-minisymposium/home) 
   
 Teaching Experience
 ------
+* Winter 2026: GSI for Stats 401
+* Fall 2025: GSI for [Stats 485](https://github.com/kshedden/case_studies)
 * Winter 2025: GSI for Stats 485
-
 * Fall 2024: GSI for Stats 401
-
 * Winter 2024: GSI for [Stats 315](https://www.ambujtewari.com/stats315-winter2024/)
-
 * Fall 2023: GSI for Stats 250
   
 Service and leadership
