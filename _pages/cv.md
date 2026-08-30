@@ -34,9 +34,9 @@ Talks
 ------
 * Minisymposium on "In-context learning for PDEs and inverse problems", [SIAM UQ 2026](https://www.siam.org/conferences-events/past-event-archive/uq26/)
 
-* The 2026 Michigan Student Symposium for Interdisciplinary Statistical Sciences [MSSISS 2026](https://sites.lsa.umich.edu/mssiss/)
+* The Michigan Student Symposium for Interdisciplinary Statistical Sciences [MSSISS 2026](https://sites.lsa.umich.edu/mssiss/)
 
-* [SIAM Student Mini-Symposium in Applied Mathematics 2026](https://sites.google.com/umich.edu/2026-siam-minisymposium/home) 
+* SIAM Student Mini-Symposium in Applied Mathematics [2026](https://sites.google.com/umich.edu/2026-siam-minisymposium/home) 
   
 Teaching Experience
 ------
