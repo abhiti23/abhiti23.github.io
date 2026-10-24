@@ -37,7 +37,13 @@ Talks
 * The Michigan Student Symposium for Interdisciplinary Statistical Sciences [MSSISS 2026](https://sites.lsa.umich.edu/mssiss/)
 
 * SIAM Student Mini-Symposium in Applied Mathematics [2026](https://sites.google.com/umich.edu/2026-siam-minisymposium/home) 
-  
+
+Poster Presentations
+------
+* [JSM 2026](https://ww2.amstat.org/meetings/jsm/2026/onlineprogram/session.cfm?id=8714)
+
+* Statistics Beyond Euclid [2026](https://anson.ucdavis.edu/statisticsbeyondeuclid/index.php)
+
 Teaching Experience
 ------
 * Winter 2026: GSI for Stats 401
