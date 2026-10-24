@@ -40,9 +40,7 @@ Talks
 
 Poster Presentations
 ------
-* [JSM 2026](https://ww2.amstat.org/meetings/jsm/2026/onlineprogram/session.cfm?id=8714)
-
-* Statistics Beyond Euclid [2026](https://anson.ucdavis.edu/statisticsbeyondeuclid/index.php)
+* 2026: [ICLR](https://iclr.cc/virtual/2026/poster/10009006), [JSM](https://ww2.amstat.org/meetings/jsm/2026/onlineprogram/session.cfm?id=8714), [Statistics Beyond Euclid](https://anson.ucdavis.edu/statisticsbeyondeuclid/index.php)
 
 Teaching Experience
 ------
